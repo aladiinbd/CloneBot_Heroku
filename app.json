@@ -1,5 +1,5 @@
 {
-	"name": "CloneBot",
+	"name": "AladinBD",
 	"description": "CloneBot",
 	"repository": "https://github.com/aishik2005/CloneBot",
 	"keywords": ["Gclone","TG"],
@@ -8,10 +8,10 @@
         "success_url": "https://github.com/aishik2005/CloneBot/blob/master/README.md",
 	"env": {
 		"telegram_token": {
-			"description": "Get from Telegram @Botfather."
+			"5653865571:AAHlC9epwtiu7G31pAY9g-OgZyPSxeXkuFw": "Get from Telegram @Botfather."
 		},
 		"user_ids": {
-			"description": "Your user id. (If you want to add more than 1 User, give IDs seperated by ',').The First user is the Admin"
+			"1895244119": "Your user id. (If you want to add more than 1 User, give IDs seperated by ',').The First user is the Admin"
 		},
 		"group_ids": {
 			"description": "Create a Super Group(s) and add ID Here. Add -1 if you don't want to add a group.(If More than 1 group Give IDs seperated by ',')"
